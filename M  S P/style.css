@@ -1,0 +1,102 @@
+/* .center {
+    background-color: rgb(209, 233, 243);  
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+    height: 300%;
+    margin: 0 auto;
+    padding-top: 20px;
+    background-image: url(inage.png) no repeat;
+    background-size: 800px 600px;
+    background-position-y: 350px;
+          border-color: blue;
+
+}
+
+.main {
+    text-align: center;
+} */
+
+/* body{
+  border-color: red;
+
+} */
+#container {
+    height: 60vw ;
+    width: 80vw;
+    border: 13px solid rgb(41, 41, 107);
+    margin: auto;
+}
+
+
+ #center {
+    height: 54vw ;
+    width: 74vw;
+    border: 24px solid rgb(185, 133, 65);
+    margin: auto;
+    border-top:  5%;
+    margin-top: 1%;
+ } 
+  .name{
+      /* margin-right: 30%;
+    margin-bottom: 10%; */
+    color: rgb(48, 48, 153); 
+    font-size: 230%;
+    padding-right: 10%;
+   
+ }
+ 
+ .image{
+     width: 60%;
+     height: 10%;
+   
+    
+ } 
+  
+ .heading{
+     margin-left: 22%;
+     background-color: rgb(197, 36, 36);
+     padding-left: 6%;
+     color: rgb(222, 228, 233);
+     font-style: italic;
+    
+     
+ }
+
+ /* .paragraph{
+    font-size: 90%;
+    margin-left: 25%;
+
+ } */
+
+/*      
+  .h1{ 
+    color:  rgb(197, 36, 36); 
+    margin-left: 24%; 
+    font-size: 175%;
+    padding-bottom: 20%;
+    font-style: italic;
+    padding-bottom: 10%;
+ } */
+
+ .h1{
+    color: rgb(230, 41, 41);
+    margin-left: 24%;
+    font-size: 200%;
+}
+     
+.paragraph {
+    margin-left: 22%;
+}
+
+
+ .table{
+    padding-bottom: 5%;
+ }
+ p{
+    font-family:'Courier New', Courier, monospace;
+ }
+ .sub{
+    color: rgb(207, 39, 39);
+ }
+ 
